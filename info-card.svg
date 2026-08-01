@@ -1,0 +1,109 @@
+<svg viewBox="0 0 490 304" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Menlo, 'Courier New', monospace">
+<rect x="1" y="1" width="488" height="302" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="1" y="1" width="488" height="34" rx="10" fill="#161b22"/>
+<rect x="1" y="26" width="488" height="8" fill="#161b22"/>
+<circle cx="22" cy="17.0" r="5.5" fill="#ff5f56"/>
+<circle cx="40" cy="17.0" r="5.5" fill="#ffbd2e"/>
+<circle cx="58" cy="17.0" r="5.5" fill="#27c93f"/>
+<text x="245.0" y="21.0" text-anchor="middle" font-size="12" fill="#8b949e">DevamshReddy-coder@github</text>
+<style>text{fill:#c9d1d9;}
+            @keyframes fadeIn0 {
+              from { opacity: 0; transform: translateX(-6px); }
+              to   { opacity: 1; transform: translateX(0); }
+            }
+            .line0 {
+              opacity: 0;
+              animation: fadeIn0 0.35s ease-out forwards;
+              animation-delay: 0.000s;
+            }
+            @keyframes fadeIn1 {
+              from { opacity: 0; transform: translateX(-6px); }
+              to   { opacity: 1; transform: translateX(0); }
+            }
+            .line1 {
+              opacity: 0;
+              animation: fadeIn1 0.35s ease-out forwards;
+              animation-delay: 0.110s;
+            }
+            @keyframes fadeIn2 {
+              from { opacity: 0; transform: translateX(-6px); }
+              to   { opacity: 1; transform: translateX(0); }
+            }
+            .line2 {
+              opacity: 0;
+              animation: fadeIn2 0.35s ease-out forwards;
+              animation-delay: 0.220s;
+            }
+            @keyframes fadeIn3 {
+              from { opacity: 0; transform: translateX(-6px); }
+              to   { opacity: 1; transform: translateX(0); }
+            }
+            .line3 {
+              opacity: 0;
+              animation: fadeIn3 0.35s ease-out forwards;
+              animation-delay: 0.330s;
+            }
+            @keyframes fadeIn4 {
+              from { opacity: 0; transform: translateX(-6px); }
+              to   { opacity: 1; transform: translateX(0); }
+            }
+            .line4 {
+              opacity: 0;
+              animation: fadeIn4 0.35s ease-out forwards;
+              animation-delay: 0.440s;
+            }
+            @keyframes fadeIn5 {
+              from { opacity: 0; transform: translateX(-6px); }
+              to   { opacity: 1; transform: translateX(0); }
+            }
+            .line5 {
+              opacity: 0;
+              animation: fadeIn5 0.35s ease-out forwards;
+              animation-delay: 0.550s;
+            }
+            @keyframes fadeIn6 {
+              from { opacity: 0; transform: translateX(-6px); }
+              to   { opacity: 1; transform: translateX(0); }
+            }
+            .line6 {
+              opacity: 0;
+              animation: fadeIn6 0.35s ease-out forwards;
+              animation-delay: 0.660s;
+            }
+            @keyframes fadeIn7 {
+              from { opacity: 0; transform: translateX(-6px); }
+              to   { opacity: 1; transform: translateX(0); }
+            }
+            .line7 {
+              opacity: 0;
+              animation: fadeIn7 0.35s ease-out forwards;
+              animation-delay: 0.770s;
+            }
+            @keyframes fadeIn8 {
+              from { opacity: 0; transform: translateX(-6px); }
+              to   { opacity: 1; transform: translateX(0); }
+            }
+            .line8 {
+              opacity: 0;
+              animation: fadeIn8 0.35s ease-out forwards;
+              animation-delay: 0.880s;
+            }</style>
+<text class="line0" x="22" y="60" font-size="15" font-weight="bold" fill="#58a6ff">CHUDI SAI DEVAMSH REDDY</text>
+<line x1="22" y1="70" x2="468" y2="70" stroke="#30363d"/>
+<text class="line1" x="22" y="92" font-size="13" font-weight="bold" fill="#79c0ff">Now</text>
+<text class="line1" x="104" y="92" font-size="12.5" fill="#c9d1d9">Backend systems in Java, Spring Boot &amp; Node.js</text>
+<text class="line2" x="22" y="119" font-size="13" font-weight="bold" fill="#79c0ff">Focus</text>
+<text class="line2" x="104" y="119" font-size="12.5" fill="#c9d1d9">APIs, performance, clean architecture</text>
+<text class="line3" x="22" y="146" font-size="13" font-weight="bold" fill="#d2a8ff">Learning</text>
+<text class="line3" x="104" y="146" font-size="12.5" fill="#c9d1d9">System design &amp; production-grade scalability</text>
+<text class="line4" x="22" y="173" font-size="13" font-weight="bold" fill="#7ee787">Open to</text>
+<text class="line4" x="104" y="173" font-size="12.5" fill="#c9d1d9">Backend / REST APIs / open-source collab</text>
+<text class="line5" x="22" y="200" font-size="13" font-weight="bold" fill="#7ee787">Ask me</text>
+<text class="line5" x="104" y="200" font-size="12.5" fill="#c9d1d9">API design, databases, debugging at scale</text>
+<text class="line6" x="22" y="227" font-size="13" font-weight="bold" fill="#ffa657">Stack</text>
+<text class="line6" x="104" y="227" font-size="12.5" fill="#c9d1d9">Java · JavaScript · Python · Node · Express</text>
+<text class="line7" x="22" y="254" font-size="13" font-weight="bold" fill="#ffa657">Data</text>
+<text class="line7" x="104" y="254" font-size="12.5" fill="#c9d1d9">MySQL · PostgreSQL · MongoDB · SQLite</text>
+<text class="line8" x="22" y="281" font-size="13" font-weight="bold" fill="#f778ba">Fun fact</text>
+<text class="line8" x="104" y="281" font-size="12.5" fill="#c9d1d9">Optimizes code as much as competitive cricket</text>
+</svg>
